@@ -1,0 +1,10 @@
+(executable
+ (name advent0)
+ (libraries base stdio re2)
+ (modules advent0)
+ )
+
+(executable
+ (name advent1)
+ (modules advent1)
+ (libraries base stdio re2))
